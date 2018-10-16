@@ -11,5 +11,5 @@ public class Constants {
     public static final int RECORDER_SAMPLE_RATE_HIGH = 44100;
     public static final int RECORDER_CHANNELS = AudioFormat.CHANNEL_IN_MONO;
     public static final int RECORDER_AUDIO_ENCODING = AudioFormat.ENCODING_PCM_16BIT;
-    public static final int AUDIO_TIME_MILLISECONDS = 5000;
+    public static final int AUDIO_TIME_MILLISECONDS = 10000;
 }
